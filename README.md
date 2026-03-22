@@ -1,3 +1,6 @@
+## 🌐 TryHackMe Profile
+https://tryhackme.com/p/noemieebdao23
+
 # thm-computer-security-intro-path
 Beginner-friendly cybersecurity learning path covering networking, OS basics, offensive/defensive security tools, and career foundations.
 
